@@ -1,0 +1,16 @@
+# installs all packages
+# pip3 install -r requirements.txt 
+selenium
+webdriver-manager
+
+python-dotenv
+langchain_openai
+numpy
+scikit-learn
+langchain
+langchain-community
+
+Flask
+Flask-SQLAlchemy
+flask-cors
+
